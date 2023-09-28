@@ -14,19 +14,23 @@ main .light-box {
   color: #1d3557ff;
 }
 
+
 /* Styles for the dark box */
 
 main .dark-box {
-  margin: 2rem 0;
   padding: 1rem;
+  margin: 2rem 0;
+  color:#f5f5f5;
   background-color: #242121;
-  border-radius:0.5rem;
-  color: #f5f5f5;
+  border-radius: 0.5rem;
+  
 }
+
 /* Styles for the link in the dark box */
-main .dark-box {
-  color:#e63946ff;
+main .dark-box a {
+  color: #e63946ff;
 }
+
 
 /* Styles for the red box */
 
